@@ -1,6 +1,8 @@
 # Automatic-Folder-Cleaner-in-Python
 **By this you can clear folder automatic
+
 **Thanks
+
 **Arpit Khandelwal
 
 # How To Contribute 
