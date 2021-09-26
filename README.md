@@ -1,10 +1,11 @@
 # Automatic-Folder-Cleaner-in-Python
 **By this you can clear folder automatic
 
-**Thanks
+**Thanks**
 
-**Arpit Khandelwal
+**Arpit Khandelwal**
 
 # How To Contribute 
-**Create the pull request or join discord server = https://discord.gg/k3R5dauZSS
+
+**Create the pull request or join discord server = https://discord.gg/k3R5dauZSS **
 
